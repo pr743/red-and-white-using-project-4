@@ -5,5 +5,5 @@ export default defineConfig({
 
 
   plugins: [react(),tailwindcss()],
-   base: '/red-and-white-using-project-4/',
+  // base: '/red-and-white-using-project-4/',
 })
