@@ -177,7 +177,7 @@ function Footer() {
       </div>
 
       <div className="my-8 border-b border-gray-400"></div>
-      <div className="flex gap-5 text-3xl text-gray-700">
+      <div className="flex gap-3 text-3xl text-gray-700">
         <a href="https://open.spotify.com/user/starbucks" target="_blank">
           <i className="fa-brands fa-spotify hover:text-black"></i>
         </a>
